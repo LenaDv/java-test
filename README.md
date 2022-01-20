@@ -1,4 +1,4 @@
 # java-test
 
 This is the Hello Java app.
-Test trigger rules, custom rule 6
+Test trigger rules, custom rule 7
